@@ -12,8 +12,8 @@
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
-    <ShouldIncludeNativeSkiaSharp>True</ShouldIncludeNativeSkiaSharp>
-    <PreferredNativeSkiaSharp>x86</PreferredNativeSkiaSharp>
+    <!--<ShouldIncludeNativeSkiaSharp>True</ShouldIncludeNativeSkiaSharp>
+    <PreferredNativeSkiaSharp>x86</PreferredNativeSkiaSharp>-->
     <TargetFrameworkProfile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>

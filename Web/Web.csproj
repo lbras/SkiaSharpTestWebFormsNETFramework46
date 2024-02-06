@@ -24,8 +24,8 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
-    <ShouldIncludeNativeSkiaSharp>True</ShouldIncludeNativeSkiaSharp>
-    <PreferredNativeSkiaSharp>x86</PreferredNativeSkiaSharp>
+    <!--<ShouldIncludeNativeSkiaSharp>True</ShouldIncludeNativeSkiaSharp>
+    <PreferredNativeSkiaSharp>x86</PreferredNativeSkiaSharp>-->
     <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
